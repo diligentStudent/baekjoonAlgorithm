@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\aa\Desktop\effective and test code\방문길이\방문길이\main.cpp(17,6): warning C4101:  'temp_x' :참조되지 않은 지역 변수입니다.
+C:\Users\aa\Desktop\effective and test code\방문길이\방문길이\main.cpp(18,6): warning C4101:  'temp_y' :참조되지 않은 지역 변수입니다.
+  방문길이.vcxproj -> C:\Users\aa\Desktop\effective and test code\방문길이\Debug\방문길이.exe
